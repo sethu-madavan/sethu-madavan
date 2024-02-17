@@ -2,7 +2,7 @@
 
 - 🔭 Everyday DayDreaming on RollsRoyce"
 - 🌱 Exploring on Networks, endpoint security and exploits"
-- 💬 ultimate goal is to create a business over Security demands"
+- 💬 ultimate goal is to create a business on Security demands"
 <hr/>
 <h2>Contact me </h2>
 
