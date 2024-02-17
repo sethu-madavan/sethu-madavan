@@ -1,8 +1,8 @@
 # Hi 👋, I'm Sethu Madavan
 
 - 🔭 Everyday DayDreaming on RollsRoyce"
-- 🌱 Exploring on Networks"
-- 💬 Let's chat about the wonders of React, Spring Boot, and more!"
+- 🌱 Exploring on Networks, endpoint security and exploits"
+- 💬 ultimate goal is to create a business over Security demands"
 <hr/>
 <h2>Contact me </h2>
 
