@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sethu Madavan
 
-- 🔭 Exploring new horizons at SKCET - LABS!"
-- 🌱 Delving into the world of Laravel, one line of code at a time!"
+- 🔭 Everyday DayDreaming on RollsRoyce"
+- 🌱 Exploring on Networks"
 - 💬 Let's chat about the wonders of React, Spring Boot, and more!"
 <hr/>
 <h2>Contact me </h2>
